@@ -1,1 +1,20 @@
-This is my repository of learning paths for the past month, and it started from the first week of my self-paced Computer Networking course.
+# MikroTik Configuration
+
+Deskripsi singkat tentang proyek ini, apa fungsinya, dan kenapa kamu buat.
+
+## Fitur
+
+- OSPF
+- BGP
+- Load Balancing 
+
+## Teknologi
+
+- Cisco Router
+- MikroTik RouterOS
+- Fortinet Firewall
+- Linux Ubuntu Server
+
+# Contact
+Instagram : @rayhanfaisal_
+LinkedIn  : 
